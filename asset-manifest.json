@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/typescript-react-quiz-app/static/js/main.37518f2d.chunk.js",
+    "main.js.map": "/typescript-react-quiz-app/static/js/main.37518f2d.chunk.js.map",
+    "runtime-main.js": "/typescript-react-quiz-app/static/js/runtime-main.386ef837.js",
+    "runtime-main.js.map": "/typescript-react-quiz-app/static/js/runtime-main.386ef837.js.map",
+    "static/js/2.a57a597d.chunk.js": "/typescript-react-quiz-app/static/js/2.a57a597d.chunk.js",
+    "static/js/2.a57a597d.chunk.js.map": "/typescript-react-quiz-app/static/js/2.a57a597d.chunk.js.map",
+    "index.html": "/typescript-react-quiz-app/index.html",
+    "static/js/2.a57a597d.chunk.js.LICENSE.txt": "/typescript-react-quiz-app/static/js/2.a57a597d.chunk.js.LICENSE.txt",
+    "static/media/summer-nattu-adnan.c866d607.jpg": "/typescript-react-quiz-app/static/media/summer-nattu-adnan.c866d607.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.386ef837.js",
+    "static/js/2.a57a597d.chunk.js",
+    "static/js/main.37518f2d.chunk.js"
+  ]
+}
